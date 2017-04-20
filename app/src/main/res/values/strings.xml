@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demonstrating Four Techniques</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="enter_email_hint">Enter email here...</string>
 </resources>
