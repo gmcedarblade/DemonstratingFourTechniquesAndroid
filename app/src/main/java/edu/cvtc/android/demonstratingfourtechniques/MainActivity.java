@@ -50,6 +50,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
         /**
+         * Using an anonymous class
+         */
+        //addContactButton.setOnClickListener(addContactListener);
+
+        /**
          * Add a listener to our button
          */
 //        final Button addContactButton = (Button) findViewById(R.id.addContactButton);
@@ -61,6 +66,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 //        final ButtonListener buttonListener = new BUttonListener();
 //        addContactButton.setOnClickListener(buttonListener);
 
+        /**
+         * using the current class
+         */
+//        addContactButton.setOnClickListener(this);
 
 
 
